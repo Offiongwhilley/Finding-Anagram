@@ -1,5 +1,5 @@
 # Finding-Anagram
-This repo contains the solution to my Zuri task on Finding Anagrams
+This repo contains the solution to my Zuri task on Finding Anagrams in Python.
 
 The task:
 
